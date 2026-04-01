@@ -138,7 +138,7 @@ document.querySelector('#app').innerHTML = `
     </div>
   </nav>
 
- <div class="bg-red-800"> 
+ <div class="bg-red-700"> 
   <div class="max-w-7xl mx-auto px-6 mx-4">
   </div>
 </div>
